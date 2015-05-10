@@ -1,3 +1,9 @@
+# Misc
+Debug
+*.sdf
+*.opensdf
+*.suo
+
 # Compiled Object files
 *.slo
 *.lo
