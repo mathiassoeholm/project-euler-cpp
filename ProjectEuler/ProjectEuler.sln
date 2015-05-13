@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largest-prime-factor", "lar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largest-palindrome-product", "largest-palindrome-product\largest-palindrome-product.vcxproj", "{FF86590D-DDE5-4BA2-B90B-8BBCB27DBB73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "smallest-multiple", "smallest-multiple\smallest-multiple.vcxproj", "{13F2B8D7-698E-4C4F-A06A-6D28E45B021D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{FF86590D-DDE5-4BA2-B90B-8BBCB27DBB73}.Debug|Win32.Build.0 = Debug|Win32
 		{FF86590D-DDE5-4BA2-B90B-8BBCB27DBB73}.Release|Win32.ActiveCfg = Release|Win32
 		{FF86590D-DDE5-4BA2-B90B-8BBCB27DBB73}.Release|Win32.Build.0 = Release|Win32
+		{13F2B8D7-698E-4C4F-A06A-6D28E45B021D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13F2B8D7-698E-4C4F-A06A-6D28E45B021D}.Debug|Win32.Build.0 = Debug|Win32
+		{13F2B8D7-698E-4C4F-A06A-6D28E45B021D}.Release|Win32.ActiveCfg = Release|Win32
+		{13F2B8D7-698E-4C4F-A06A-6D28E45B021D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
