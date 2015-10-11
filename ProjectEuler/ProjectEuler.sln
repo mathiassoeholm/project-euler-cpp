@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10001st-prime", "10001st-pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "largest-product-in-a-series", "largest-product-in-a-series\largest-product-in-a-series.vcxproj", "{5D1D2162-5F9C-4B1D-A821-3134187789BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "special-pythagorean-triplet", "special-pythagorean-triplet\special-pythagorean-triplet.vcxproj", "{2D5BC89A-F9E7-47DB-BEB1-31D180CD5A78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{5D1D2162-5F9C-4B1D-A821-3134187789BD}.Debug|Win32.Build.0 = Debug|Win32
 		{5D1D2162-5F9C-4B1D-A821-3134187789BD}.Release|Win32.ActiveCfg = Release|Win32
 		{5D1D2162-5F9C-4B1D-A821-3134187789BD}.Release|Win32.Build.0 = Release|Win32
+		{2D5BC89A-F9E7-47DB-BEB1-31D180CD5A78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D5BC89A-F9E7-47DB-BEB1-31D180CD5A78}.Debug|Win32.Build.0 = Debug|Win32
+		{2D5BC89A-F9E7-47DB-BEB1-31D180CD5A78}.Release|Win32.ActiveCfg = Release|Win32
+		{2D5BC89A-F9E7-47DB-BEB1-31D180CD5A78}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
